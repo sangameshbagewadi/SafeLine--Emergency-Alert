@@ -13,6 +13,7 @@ It is simple to implement and easy to understand.
 - Easy to implement
 - Easy to understand
 - Shake detector
+- FirstAid button which provides basic informations about safety
 - Shake device to send SOS to registered mobile
 - Sends Last Known Location to registered mobile
 
