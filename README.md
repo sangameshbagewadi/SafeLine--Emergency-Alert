@@ -1,8 +1,10 @@
-# Women-Safety-App
+# SafeLine Emergency Alert
 ## _Feel Safe Everywhere_
 
 
-Women Safety App is user friendly application built in Android Studio using Java.
+#to get file just download the project1.zip file
+
+Safety App is user friendly application built in Android Studio using Java.
 It is simple to implement and easy to understand.
 
 
@@ -19,7 +21,7 @@ It is simple to implement and easy to understand.
 - Basic knowledge about Firebase Authentication and Realtime database.
 ## Build and Run Application
 
-###### Women Safety Application requires Android Oreo or newer version to run.
+###### Safety Application requires Android Oreo or newer version to run.
 Follow this steps to get Working Project!
 ```
 Clone this repository or download file
